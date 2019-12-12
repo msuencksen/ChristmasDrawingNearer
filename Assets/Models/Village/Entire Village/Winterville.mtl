@@ -1,0 +1,783 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 05.03.2019 02:27:38
+
+newmtl House_1_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1\House-1_Yellow_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1\House-1_Yellow_Diffuse.tga
+	map_Ks I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1\House-1_Specular.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1\House-1_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1\House-1_Normal.tga
+
+newmtl House_1_White_Stones
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Normal.tga
+
+newmtl House_1_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Diffuse-2.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Diffuse-2.tga
+	map_Ks I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Specular.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Normal.tga
+
+newmtl House_1_4
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Diffuse.tga
+	map_Ks I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Specular.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-1\House-1-White-Stones\House-1-White-Stones_Normal.tga
+
+newmtl Landscape
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Landscape\Landscape_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Landscape\Landscape_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Landscape\Landscape_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Landscape\Landscape_Normal.tga
+
+newmtl Church
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\Church\Church-(Grey_Red_Stones)\Church-(Grey_Red_Stones)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\Church\Church-(Grey_Red_Stones)\Church-(Grey_Red_Stones)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\Church\Church-(Grey_Red_Stones)\Church-(Grey_Red_Stones)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\Church\Church-(Grey_Red_Stones)\Church-(Grey_Red_Stones)_Normal.tga
+
+newmtl House_2_Pharmacy_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Pharmacy)\House-2(Pharmacy)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Pharmacy)\House-2(Pharmacy)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Pharmacy)\House-2(Pharmacy)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Pharmacy)\House-2(Pharmacy)_Normal.tga
+
+newmtl House_2_Village_Council_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Village_Council)\House-2(Village_Council)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Village_Council)\House-2(Village_Council)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Village_Council)\House-2(Village_Council)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Village_Council)\House-2(Village_Council)_Normal.tga
+
+newmtl House_2_Primary_School_Green_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Primary_School)\House-2(Primary_School_Green)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Primary_School)\House-2(Primary_School_Green)_Diffuse.tga
+
+newmtl House_2_Secondary_School_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Secondary_School)\House-2(Secondary_School)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Secondary_School)\House-2(Secondary_School)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Secondary_School)\House-2(Secondary_School)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Secondary_School)\House-2(Secondary_School)_Normal.tga
+
+newmtl House_2_Primary_School_White_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Primary_School)\House-2(Primary_School_White)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Primary_School)\House-2(Primary_School_White)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Pharmacy)\House-2(Pharmacy)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-2\House-2(Pharmacy)\House-2(Pharmacy)_Normal.tga
+
+newmtl House_3_X_Mass_White_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3(X-Mass)\House-3(X-Mass_White)Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3(X-Mass)\House-3(X-Mass_White)Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3(X-Mass)\House-3(X-Mass)Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3(X-Mass)\House-3(X-Mass)Normal.tga
+
+newmtl House_3_White_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3\House-3(White)Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3\House-3(White)Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3\House-3_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3\House-3_Normal.tga
+
+newmtl House_3_X_Mass_Pink_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3(X-Mass)\House-3(X-Mass_Pink)Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3(X-Mass)\House-3(X-Mass_Pink)Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3(X-Mass)\House-3(X-Mass)Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3(X-Mass)\House-3(X-Mass)Normal.tga
+
+newmtl House_3_Yellow_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3\House-3(Yellow)Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3\House-3(Yellow)Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3\House-3_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-3\House-3\House-3_Normal.tga
+
+newmtl House_4_Post_Office_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Post_Office)\House-4(Post_Office)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Post_Office)\House-4(Post_Office)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Post_Office)\House-4(Post_Office)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Post_Office)\House-4(Post_Office)_Normal.tga
+
+newmtl House_4_Beige_Navy_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Beige_Navy)\House-4(Beige_Navy)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Beige_Navy)\House-4(Beige_Navy)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Beige_Navy)\House-4(Beige_Navy)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Beige_Navy)\House-4(Beige_Navy)_Normal.tga
+
+newmtl House_4_Food_Store_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Food_Store)\House-4(Food_Store)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Food_Store)\House-4(Food_Store)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Food_Store)\House-4(Food_Store)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Food_Store)\House-4(Food_Store)_Normal.tga
+
+newmtl House_4_Barber_Shop_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Barber_Shop)\House-4( Barber_Shop)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Barber_Shop)\House-4( Barber_Shop)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Barber_Shop)\House-4( Barber_Shop)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-4\House-4(Barber_Shop)\House-4( Barber_Shop)_Normal.tga
+
+newmtl House_5_Hotel_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(Hotel)\House-5(Hotel)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(Hotel)\House-5(Hotel)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(Hotel)\House-5(Hotel)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(Hotel)\House-5(Hotel)_Normal.tga
+
+newmtl House_5_White_X_Mass_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(White_X-Mass)\House-5(White_X-Mass)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(White_X-Mass)\House-5(White_X-Mass)_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(White_X-Mass)\House-5(White_X-Mass)_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(White_X-Mass)\House-5(White_X-Mass)_Normal.tga
+
+newmtl House_5Purple_X_Mass
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(Purple_X-Mass)\House-5Purple_X-Mass_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(Purple_X-Mass)\House-5Purple_X-Mass_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(Purple_X-Mass)\House-5Purple_X-Mass_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\House-5\House-5(Purple_X-Mass)\House-5Purple_X-Mass_Normal.tga
+
+newmtl Wind_Mill_Red
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Wind_Mill_Red\Wind_Mill_Red_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Wind_Mill_Red\Wind_Mill_Red_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Wind_Mill_Red\Wind_Mill_Red_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Wind_Mill_Red\Wind_Mill_Red_Normal.tga
+
+newmtl Vanes
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Vanes\Vanes_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Vanes\Vanes_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Vanes\Vanes_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Vanes\Vanes_Normal.tga
+
+newmtl Wind_Mill_Black
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Wind_Mill_Black\Wind_Mill_Black_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Wind_Mill_Black\Wind_Mill_Black_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Wind_Mill_Black\Wind_Mill_Black_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\Wind_Mill\Wind_Mill_Black\Wind_Mill_Black_Normal.tga
+
+newmtl Bridge
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Architecture\Bridge\Bridge_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Architecture\Bridge\Bridge_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Architecture\Bridge\Bridge_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Architecture\Bridge\Bridge_Normal.tga
+
+newmtl Fir_Tree
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Fir_Tree\Fir_Tree(Green)_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Fir_Tree\Fir_Tree(Green)_Diffuse.tga
+	map_Ks I:\3D FOR SALE\Cartoon Village\Nature\Fir_Tree\Fir_Tree_Specular.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Fir_Tree\Fir_Tree_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Fir_Tree\Fir_Tree_Normal.tga
+
+newmtl Oak_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Oak-1\Oak-1_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Oak-1\Oak-1_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Oak-1\Oak-1_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Oak-1\Oak-1_Normal.tga
+
+newmtl Oak_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Oak-2\Oak-2_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Oak-2\Oak-2_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Oak-2\Oak-2_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Oak-2\Oak-2_Normal.tga
+
+newmtl Cypress_Tree
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Street_Environment\Cypress_Tree\Cypress_Tree_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Street_Environment\Cypress_Tree\Cypress_Tree_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Cypress_Tree\Cypress_Tree_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Cypress_Tree\Cypress_Tree_Normal.tga
+
+newmtl Shrub
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Street_Environment\Shrub\Shrub_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Street_Environment\Shrub\Shrub_Diffuse.tga
+	map_Ks I:\3D FOR SALE\Cartoon Village\Street_Environment\Shrub\Shrub_Specular.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Shrub\Shrub_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Shrub\Shrub_Normal.tga
+
+newmtl Stone_Wall
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Street_Environment\Stone_Wall\Stone_Wall_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Street_Environment\Stone_Wall\Stone_Wall_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Stone_Wall\Stone_Wall_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Stone_Wall\Stone_Wall_Normal.tga
+
+newmtl Stone_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-2\Stone-2_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-2\Stone-2_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-2\Stone-2_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-2\Stone-2_Normal.tga
+
+newmtl Stone_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-3\Stone-3_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-3\Stone-3_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-3\Stone-3_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-3\Stone-3_Normal.tga
+
+newmtl Stone_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-1\Stone-1_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-1\Stone-1_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-1\Stone-1_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-1\Stone-1_Normal.tga
+
+newmtl Stone_4
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-4\Stone-4_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-4\Stone-4_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-4\Stone-4_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Stones\Stone-4\Stone-4_Normal.tga
+
+newmtl Willow
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Willow\Willow_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Willow\Willow_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Willow\Willow_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Broad-Leaved_Trees\Willow\Willow_Normal.tga
+
+newmtl Group_of_Stones
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Stones\Group_of_Stones\Group_of_Stones_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Stones\Group_of_Stones\Group_of_Stones_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Stones\Group_of_Stones\Group_of_Stones_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Stones\Group_of_Stones\Group_of_Stones_Normal.tga
+
+newmtl Evergreen_Shrub
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Street_Environment\Evergreen_Shrub\Evergreen_Shrub_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Street_Environment\Evergreen_Shrub\Evergreen_Shrub_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Evergreen_Shrub\Evergreen_Shrub_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Evergreen_Shrub\Evergreen_Shrub_Normal.tga
+
+newmtl Sign_Post_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-1\Sign_Post-1_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-1\Sign_Post-1_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-1\Sign_Post-1_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-1\Sign_Post-1_Normal.tga
+
+newmtl Street_Lantern
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Street_Environment\Street_Lantern\Street_Lantern_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Street_Environment\Street_Lantern\Street_Lantern_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Street_Lantern\Street_Lantern_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Street_Lantern\Street_Lantern_Normal.tga
+
+newmtl wire_204204204
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Cat
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Cat\Cat_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Cat\Cat_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Cat\Cat_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Cat\Cat_Normal.tga
+
+newmtl Sign_Post_2_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-2\Sign_Post-2_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-2\Sign_Post-2_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-2\Sign_Post-2_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-2\Sign_Post-2_Normal.tga
+
+newmtl Sign_Post_2_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-2\Sign_Post-2_Diffuse( Village Council-Post Office).tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-2\Sign_Post-2_Diffuse( Village Council-Post Office).tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-2\Sign_Post-2_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Sign_Posts\Sign_Post-2\Sign_Post-2_Normal.tga
+
+newmtl Post_Box
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Street_Environment\Post_Box\Post_Box_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Street_Environment\Post_Box\Post_Box_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Post_Box\Post_Box_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Street_Environment\Post_Box\Post_Box_Normal.tga
+
+newmtl Crow_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Crows\Crow-1\Crow-1_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Crows\Crow-1\Crow-1_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Crows\Crow-1\Crow-1_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Crows\Crow-1\Crow-1_Normal.tga
+
+newmtl Crow_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Crows\Crow-2\Crow-2_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Crows\Crow-2\Crow-2_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Crows\Crow-2\Crow-2_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Crows\Crow-2\Crow-2_Normal.tga
+
+newmtl Dead_Fir_Tree
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\3D FOR SALE\Cartoon Village\Nature\Dead_Fir_Tree\Dead_Fir_Tree_Diffuse.tga
+	map_Kd I:\3D FOR SALE\Cartoon Village\Nature\Dead_Fir_Tree\Dead_Fir_Tree_Diffuse.tga
+	map_bump I:\3D FOR SALE\Cartoon Village\Nature\Dead_Fir_Tree\Dead_Fir_Tree_Normal.tga
+	bump I:\3D FOR SALE\Cartoon Village\Nature\Dead_Fir_Tree\Dead_Fir_Tree_Normal.tga
