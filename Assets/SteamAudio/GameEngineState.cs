@@ -235,7 +235,7 @@ namespace SteamAudio
             }
             catch (Exception e)
             {
-                Debug.LogError(e.Message);
+                Debug.LogError(e.Message + e.StackTrace);
             }
         }
 
