@@ -3,7 +3,12 @@ guid: e7fdf2955c2bec247b6039f9f0787aa0
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RetopoGroup2Mat
+    second: {fileID: 2100000, guid: 2f217dc55fb31cd43900128412dee4d5, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
