@@ -3,7 +3,287 @@ guid: 396da5b4551fd69449995741d1805ae4
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageChurch
+    second: {fileID: 2100000, guid: e101a849095cd4b4a97d71b6be8a8ec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault
+    second: {fileID: 2100000, guid: 6d04747db38fdaf44a06fb4471814529, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_1
+    second: {fileID: 2100000, guid: 2e4abbfc0e0dd6749b0ef3177083e87d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_10
+    second: {fileID: 2100000, guid: 025731632e44ae74cb6655779060bd54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_11
+    second: {fileID: 2100000, guid: 0611948186661414092acc94f8ef6b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_2
+    second: {fileID: 2100000, guid: aa62969882c886f4bab353a31ad27825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_3
+    second: {fileID: 2100000, guid: 59a55fab5e30bfa4ca072db0861b277b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_4
+    second: {fileID: 2100000, guid: 837be452fb0b057478069580a6965e88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_5
+    second: {fileID: 2100000, guid: 66a001a485a423c429b2ddc5fc8e1a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_6
+    second: {fileID: 2100000, guid: 6349e04b39b39bd43909eb4fb3d34983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_7
+    second: {fileID: 2100000, guid: 6d729caaa43bcd949a3405b442408244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_8
+    second: {fileID: 2100000, guid: 960869d66cf057349babeae512a6b002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_9
+    second: {fileID: 2100000, guid: f8682e96941d32a48bbf13cb33b6f473, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_copy
+    second: {fileID: 2100000, guid: 1a6d0afd17986594da575c4a646fcba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_copy_1
+    second: {fileID: 2100000, guid: 7e350331a6d343845a7b5c643f98398e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_copy_2
+    second: {fileID: 2100000, guid: fcfacb4b6403d1844bcdb76ae708f2eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_copy_3
+    second: {fileID: 2100000, guid: a92c9a3696143bd499a9e76f2d87a23e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageDefault_copy_copy
+    second: {fileID: 2100000, guid: b2b0370efe13e07488b5b052866c4297, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_1
+    second: {fileID: 2100000, guid: 89567666d52cc824da4e8f6006118f62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_1_copy
+    second: {fileID: 2100000, guid: d132352afaef5a641bda2f377af6e8d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_1_copy_1
+    second: {fileID: 2100000, guid: a0c1dafe7ee513f4aa3ad3c35c9e7a3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_2_1
+    second: {fileID: 2100000, guid: 9176437b099f1dd4aba5a0591651ec8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_2_1_copy
+    second: {fileID: 2100000, guid: 11de37e336cc1cd4fb5fc43f8997f513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_2_1_copy_1
+    second: {fileID: 2100000, guid: f6c5c165e6ccd5c44ba0978f7115f64f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_3
+    second: {fileID: 2100000, guid: bc808ec8fbf44ad499b989cc319dcb7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_3_copy
+    second: {fileID: 2100000, guid: f143dfe6c7daa5240bd042b914df8091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_3_copy_1
+    second: {fileID: 2100000, guid: 38379f0d2836d87438dfa263b2675451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_4_1
+    second: {fileID: 2100000, guid: 10aa6e60aeaaf744e92065553994165e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_4_1_copy
+    second: {fileID: 2100000, guid: bb7bdbbf6069d12479583c6bd4846656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_4_2
+    second: {fileID: 2100000, guid: 49bf97176a3e0a24e90e2ddddb2a91f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_5_1
+    second: {fileID: 2100000, guid: e9256e660893e0f42af1c22c3ccfd895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_5_1_copy
+    second: {fileID: 2100000, guid: c3a98ffe513d37941b732af8f342d9b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_6_1
+    second: {fileID: 2100000, guid: 6681990b2ac706743b1dd633d30122ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_6_1_copy
+    second: {fileID: 2100000, guid: 0d946032f916e724797df36dc7fe01ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_6_1_copy_copy
+    second: {fileID: 2100000, guid: dea06f665a0ccb94e861cd07c88e2b94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_6_1_copy_copy_1
+    second: {fileID: 2100000, guid: 62138290791d9b544ad53c51f1409620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_7_1
+    second: {fileID: 2100000, guid: 993b8a757b6a4ed49aa28663285d1708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_7_1_copy
+    second: {fileID: 2100000, guid: 97dc2d41d84b6d046916f7efdcb87d50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_7_1_copy_1
+    second: {fileID: 2100000, guid: 654a9fe7502460241b6d688bf410c653, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_7_1_copy_copy_copy
+    second: {fileID: 2100000, guid: f53875e37ef442842a02b6990dc4a538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_7_1_copy_copy_copy_copy
+    second: {fileID: 2100000, guid: 3e8fbd59c2d261748aa479dc40a69464, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_7_2_copy
+    second: {fileID: 2100000, guid: 6f27a2677dbbd6b43a3e58ef5df04179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_8
+    second: {fileID: 2100000, guid: 5045e2d628e5e4b46ae9e71960d689cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_8_1
+    second: {fileID: 2100000, guid: 23037f407209c0c49bafba210c2d6069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_8_3
+    second: {fileID: 2100000, guid: efd43b1d686c99a4d89b18b76a506071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageHouse_8_4
+    second: {fileID: 2100000, guid: 673c04dcf74dc654d9eba48b0e73309e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageTower_2
+    second: {fileID: 2100000, guid: e5f48755e8c056d4795134ea00136a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageTower_2_copy
+    second: {fileID: 2100000, guid: 52daa20c1636930489e3e5e019339113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VillageTower_3
+    second: {fileID: 2100000, guid: b8986c148885a2e4c8ee7359a8a415cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Village_Clock_Hour_HandDefault
+    second: {fileID: 2100000, guid: b7e11952d2678234a8f2b41bbfd739ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Village_Clock_Hour_HandDefault_1
+    second: {fileID: 2100000, guid: 278d8b49dfa501343a5986b676e60983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Village_Clock_Hour_HandDefault_copy
+    second: {fileID: 2100000, guid: b5f1bfa735465d5418ccc22147644eb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Village_Clock_Hour_HandDefault_copy_1
+    second: {fileID: 2100000, guid: 545a40788cf51ac4c87ff95ac1a3dee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Village_Clock_Minutes_HandDefault1
+    second: {fileID: 2100000, guid: 20f1ff5d86c65d54d9676f8959aa196d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Village_Clock_Minutes_HandDefault1_1
+    second: {fileID: 2100000, guid: 248fa57eb563a1b418dd842fff7cd2d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Village_Clock_Minutes_HandDefault1_copy
+    second: {fileID: 2100000, guid: 5c170ab021569264da7b7fc760169947, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -80,7 +360,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.00025399998
+    globalScale: 0.01
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

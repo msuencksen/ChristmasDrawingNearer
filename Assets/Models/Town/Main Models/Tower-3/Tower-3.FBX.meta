@@ -3,7 +3,22 @@ guid: b2ba76a6ae5b1f84390c20259f154bfc
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Tower-3_Clock_Hour_HandDefault
+    second: {fileID: 2100000, guid: 8188df3e8db91c048878712a124c8508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Tower-3_Clock_Minutes_HandDefault1
+    second: {fileID: 2100000, guid: 576b83f5422c1d240982629e09865b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Tower-3_Tower_3Default
+    second: {fileID: 2100000, guid: 82b4fda1fb87c204f958bae99db625f9, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

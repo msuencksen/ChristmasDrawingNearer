@@ -3,7 +3,12 @@ guid: dbc4893e5e72fef40bae2ff931ae741f
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _MiniTowerDefault
+    second: {fileID: 2100000, guid: 0e7b677000919774aae50c040a7d4f26, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

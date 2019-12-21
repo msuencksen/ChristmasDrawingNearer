@@ -3,7 +3,252 @@ guid: 9b88acf874c996d41986582645819e76
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bridge
+    second: {fileID: 2100000, guid: 03457195c3951094e82e39a22c16fec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat
+    second: {fileID: 2100000, guid: 50c954251f006f24599240577883dbbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Church
+    second: {fileID: 2100000, guid: 484d2a8516c477b41a38157a41132c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crow_1
+    second: {fileID: 2100000, guid: a105c731d909100408474ea5160cabe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crow_2
+    second: {fileID: 2100000, guid: 1716203585c6e6a4d821a069a7908f05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cypress_Tree
+    second: {fileID: 2100000, guid: b9969f7f8f105c843b2be76063ceb13e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dead_Fir_Tree
+    second: {fileID: 2100000, guid: d5470bde3a654804bae2c9f9b9062b0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Evergreen_Shrub
+    second: {fileID: 2100000, guid: 76979d0c001820a49961dfd742f91ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fir_Tree
+    second: {fileID: 2100000, guid: 627f771768b19824b9be06ef8dbd4742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Group_of_Stones
+    second: {fileID: 2100000, guid: 6ddf70740d5dbce469f524ddeea54e6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_1_2
+    second: {fileID: 2100000, guid: f2cb73fcd19ab8d488c889d703e46ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_1_3
+    second: {fileID: 2100000, guid: 3af6abccc24a4a147b2ff7733f0b8b35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_1_4
+    second: {fileID: 2100000, guid: 38528bbea6b0e364a8e73bf470d1ba2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_1_White_Stones
+    second: {fileID: 2100000, guid: 348267be4f2fad8498649a91a766f780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_2_Pharmacy_
+    second: {fileID: 2100000, guid: 6b282c0bb75761f4ebd37d5c4af3a1e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_2_Primary_School_Green_
+    second: {fileID: 2100000, guid: fef1348a66965e94aaa1e123277c5ae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_2_Primary_School_White_
+    second: {fileID: 2100000, guid: cf33c5231d8abbe4e9ef7259a6e13a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_2_Secondary_School_
+    second: {fileID: 2100000, guid: f591b86fdb2282344bc6876cea22b288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_2_Village_Council_
+    second: {fileID: 2100000, guid: 0ae5c36c7763d244e821b00bb11a6a72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_3_White_
+    second: {fileID: 2100000, guid: 47ab1bb219c997c4da93c5fb5b61724c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_3_X_Mass_Pink_
+    second: {fileID: 2100000, guid: 969d12bf29a138941896550747318747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_3_X_Mass_White_
+    second: {fileID: 2100000, guid: 864e875180b77b34581b9021d4fac2d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_3_Yellow_
+    second: {fileID: 2100000, guid: 02e97f80c41fa5a45a41f5cc532779e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_4_Barber_Shop_
+    second: {fileID: 2100000, guid: 3066e27716edcb34680724347544192c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_4_Beige_Navy_
+    second: {fileID: 2100000, guid: 92b25125e5ad0f0438f036bfa7d2d6ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_4_Food_Store_
+    second: {fileID: 2100000, guid: 64d2e403273edc94d87ef0e1a33d96c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_4_Post_Office_
+    second: {fileID: 2100000, guid: 7b9e13ec95947d14a85111aedff7143c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_5Purple_X_Mass
+    second: {fileID: 2100000, guid: 2cd503ee4fe7b8b4ca8e3fc2414eb090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_5_Hotel_
+    second: {fileID: 2100000, guid: a49e321b7247a0e45905fee63f40d0e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_5_White_X_Mass_
+    second: {fileID: 2100000, guid: 417996927711b464294459513f76fcdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Landscape
+    second: {fileID: 2100000, guid: 49290b13c61ba56449b99f75cd0862c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oak_1
+    second: {fileID: 2100000, guid: cd510f8dc8b4d744ab75df9ecfbb2fec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oak_2
+    second: {fileID: 2100000, guid: 2af8b30c2c829e84aaca70972b69be07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Post_Box
+    second: {fileID: 2100000, guid: 44ecdc17309d987409e6045ca62effc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shrub
+    second: {fileID: 2100000, guid: 4c9762702f21e4a47a2983f2682e7e3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign_Post_1
+    second: {fileID: 2100000, guid: b2945b8aec25f49498cf8350b717a352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign_Post_2_1
+    second: {fileID: 2100000, guid: 4797fa55ea9f8fb41a163e24a83650b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign_Post_2_2
+    second: {fileID: 2100000, guid: 7cfda1134cac311488aeca502c4a9e74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_1
+    second: {fileID: 2100000, guid: d44256b8288637c4db133c98f662dd11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_2
+    second: {fileID: 2100000, guid: bf5b3b21485e8484f85d356fa6494362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_3
+    second: {fileID: 2100000, guid: b9d1a14b6ee271b4ab7bce3e486c60e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_4
+    second: {fileID: 2100000, guid: f036bc7e39b104749ac17765344aa86c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_Wall
+    second: {fileID: 2100000, guid: 1f60ebfef1cd5fe469652db20d8fd2da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Street_Lantern
+    second: {fileID: 2100000, guid: 18ee20d37d0bec74085c34a21e656ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vanes
+    second: {fileID: 2100000, guid: 9de8f2d892868b64d848ead02b454743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Willow
+    second: {fileID: 2100000, guid: ee0bb03253fc0414a83adc33dec0f1f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wind_Mill_Black
+    second: {fileID: 2100000, guid: bcc86cfa09185db4a9571f41e3ad0a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wind_Mill_Red
+    second: {fileID: 2100000, guid: 4933cb03cc5e16f478da04951d0b3ab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_204204204
+    second: {fileID: 2100000, guid: 2d11c34adbf8f494db90a6b1273736fb, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

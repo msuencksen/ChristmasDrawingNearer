@@ -3,7 +3,12 @@ guid: 6bba89640863c51428f2fdc424c5c121
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Evergreen_ShrubDefault
+    second: {fileID: 2100000, guid: e04e9184b9b049b4ba9db135bbc7131b, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

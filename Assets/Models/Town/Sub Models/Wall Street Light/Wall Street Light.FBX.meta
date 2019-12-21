@@ -3,7 +3,12 @@ guid: 3c28b3f622a7f0c49b95268453b44b87
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Wall Street LightDefault
+    second: {fileID: 2100000, guid: 0daa58a60797ca04f88941b3a88c60a1, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

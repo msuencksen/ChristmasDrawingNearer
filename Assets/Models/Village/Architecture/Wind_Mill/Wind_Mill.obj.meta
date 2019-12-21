@@ -3,7 +3,17 @@ guid: a898bb48882a60a4caebae3328e765cf
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Wind_MillVanes
+    second: {fileID: 2100000, guid: 2fe06381d8941f74e9912b301d4d7b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Wind_MillWindMill
+    second: {fileID: 2100000, guid: 2d9e106065b852f4d8e4ab4dcb9e5341, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
