@@ -3,7 +3,12 @@ guid: 5097d12e917473f409ca1da23a4d061f
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Cypress_TreeDefault
+    second: {fileID: 2100000, guid: 9082124bef817814d9edc210dc005e92, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

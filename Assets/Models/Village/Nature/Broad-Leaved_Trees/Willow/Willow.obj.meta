@@ -3,7 +3,12 @@ guid: 32bbd2c497606b3499853d8341b0498e
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Willow_New_SpeedTree_2Default_Mat
+    second: {fileID: 2100000, guid: d81d83f6d84588544b904750a7bfe552, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

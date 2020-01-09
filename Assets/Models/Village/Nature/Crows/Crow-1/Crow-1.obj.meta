@@ -3,7 +3,12 @@ guid: a6951fcbc5b38c4449d1ba749b9f62d0
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Crow_1default
+    second: {fileID: 2100000, guid: ccee4f1c8de42bf4b93986938cd40b70, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

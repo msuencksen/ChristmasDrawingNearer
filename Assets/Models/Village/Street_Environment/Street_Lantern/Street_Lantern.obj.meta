@@ -3,7 +3,12 @@ guid: a57aebea2d58407419ec06b68f5f87d3
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Street_LanternDefault
+    second: {fileID: 2100000, guid: 5fe30e667ce68014fa1cc90610d1510b, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
