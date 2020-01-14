@@ -25,7 +25,7 @@ public class Parcel : MonoBehaviour
         if (other.tag == "Chimney")
         {
 
-            GetComponent<Rigidbody>().isKinematic = true;  
+            //GetComponent<Rigidbody>().isKinematic = true;  
 
             transform.position = other.transform.parent.position; // should be base of house
 

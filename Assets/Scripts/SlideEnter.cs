@@ -7,14 +7,23 @@ using Valve.VR.InteractionSystem;
 public class SlideEnter : MonoBehaviour
 {
 
+    public SteamVR_ActionSet actionSet;
     public SteamVR_Action_Single enterAction;
 
-    Slide slide;
+    public Slide slide;
 
     // Start is called before the first frame update
-    void Awake()
+    void Start()
     {
-        slide = transform.parent.GetComponent<Slide>();
+        //slide = transform.parent.GetComponent<Slide>();
+
+        //actionSet.Activate(SteamVR_Input_Sources.Any, 0);
+
+        if (enterAction.activeBinding)
+            Debug.Log("Bound");
+
+        if (enterAction.active)
+            Debug.Log("active");
     }
 
     /// <summary>

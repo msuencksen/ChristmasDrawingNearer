@@ -64,23 +64,21 @@ public class Slide : MonoBehaviour
     /// </summary>
     internal void OnEnterSlide()
     {
-        if (onboard)
+        if (!onboard)
         {
-            Debug.LogError("Already onboard!");
-            return;
+            onboard = true;
+
+            // -- parent player to this slide ---      
+            Vector3 offset = this.transform.position - Player.instance.headCollider.transform.position; // check offset HMD to slide
+            offset.y = 0;
+
+            Player.instance.transform.SetParent(this.transform, worldPositionStays: true);  // parent player GO to this slide
+            Player.instance.transform.Translate(offset, Space.World);
+            // --
         }
 
-        onboard = true;
-        
-        // -- parent player to this slide ---      
-        Vector3 offset = this.transform.position - Player.instance.headCollider.transform.position; // check offset HMD to slide
-        offset.y += 0.5f; // move a bit up
-
-        Player.instance.transform.SetParent(this.transform, worldPositionStays: true);  // parent player GO to this slide
-        Player.instance.transform.Translate(offset);
-        // --
-
         // start animator
-        tourAnimator.speed = 1; // start
+        if (tourAnimator.speed == 0 )
+            tourAnimator.speed = 1; // start
     }
 }

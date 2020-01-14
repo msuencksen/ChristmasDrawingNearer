@@ -65,7 +65,19 @@ public class GameManager : MonoBehaviour
     {
         GameObject parcel = Instantiate(parcelPrefab);
 
+        parcel.SetActive(false);
         parcel.transform.SetParent(parcelSpawPointAnchor.transform, false);
+        parcel.transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
+
+        StartCoroutine(ShowNewParcel(parcel));
+    }
+
+    IEnumerator ShowNewParcel(GameObject parcel)
+    {
+        yield return new WaitForSeconds(1.0f);
+
+        parcel.SetActive(true);
+
     }
 
     /// <summary>
