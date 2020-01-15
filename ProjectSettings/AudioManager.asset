@@ -15,5 +15,5 @@ AudioManager:
   m_SpatializerPlugin: Steam Audio Spatializer
   m_AmbisonicDecoderPlugin: Steam Audio Ambisonics
   m_DisableAudio: 0
-  m_VirtualizeEffects: 1
+  m_VirtualizeEffects: 0
   m_RequestedDSPBufferSize: 1024
